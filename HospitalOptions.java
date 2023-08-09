@@ -14,7 +14,7 @@ boolean b=false;
 for(Patient pp:lis) {
 	if(pp.getId()==p.getId()) {
 		b=true;
-		System.out.println("detgggails alrzzddeady exists");
+		System.out.println("detgggails alrvuvuzzddeady exists");
 		break;
 	}
 }
