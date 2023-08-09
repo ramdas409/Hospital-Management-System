@@ -21,7 +21,7 @@ for(Patient pp:lis) {
 
 if(b==false) {
 	lis.add(p);
-	System.out.println("details added sucessfully");
+	System.out.println("details addhjjgued sucessfully");
 }
 
 	}
