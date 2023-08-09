@@ -11,7 +11,7 @@ public class HospitalManagement {
 		Patient ram=new Patient(19,"radgsscvm",22,"coddhdsdfgugh",8790876534l,20000);
 		Patient ravindra=new Patient(60,"ravdhdinsdddra",23,"fever",8886922183l,27999);
 		Patient loki=new Patient(34,"lovbki",23,"malaria",9347394783l,34520);
-		Patient ravi=new Patient(232,"ravi",21,"fever",8142836165l,7362);
+		Patient ravi=new Patient(232,"ravsvhgsvhsvsuwi",21,"fever",8142836165l,7362);
 		
 		list.add(ali);
 		list.add(ravindra);
